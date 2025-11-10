@@ -1,0 +1,7 @@
+Flask
+pytesseract
+pillow
+pdf2image
+requests
+reportlab
+werkzeug

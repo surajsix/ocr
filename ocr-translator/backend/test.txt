@@ -1,0 +1,3 @@
+This is a test file for translation.
+It contains multiple lines of text.
+Please translate this to your desired language.
